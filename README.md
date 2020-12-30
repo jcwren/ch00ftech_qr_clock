@@ -6,9 +6,9 @@ All rights remain with Michael Ciuffo. His WordPress blog at
 https://ch00ftech.com has been inactive since December 15, 2017, as has his
 Twitter feed.
 
-v1.1 is the original QR clock in kit form. v2.2 was the production clock
+v1.1 is the original QR clock in kit form. v2.2 is the production clock
 that was available on [Tindie](https://www.tindie.com/stores/ch00ftech/)
 
-* [v1.1 source files](https://ch00ftech.com/2012/10/27/qr-clock)
-* [v2.2 source files](https://ch00ftech.com/qrclock/)
+* [Original link to v1.1 source files](https://ch00ftech.com/2012/10/27/qr-clock)
+* [Original link to v2.2 source files](https://ch00ftech.com/qrclock/)
 * [All QR clock related posts](https://ch00ftech.com/category/qr-clock/)
