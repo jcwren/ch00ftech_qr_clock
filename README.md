@@ -9,6 +9,6 @@ Twitter feed.
 v1.1 is the original QR clock in kit form. v2.2 was the production clock
 that was available on [Tindie](https://www.tindie.com/stores/ch00ftech/)
 
-[v1.1 source files](https://ch00ftech.com/2012/10/27/qr-clock)
-[v2.2 source files](https://ch00ftech.com/qrclock/)
-[All QR clock related posts](https://ch00ftech.com/category/qr-clock/)
+* [v1.1 source files](https://ch00ftech.com/2012/10/27/qr-clock)
+* [v2.2 source files](https://ch00ftech.com/qrclock/)
+* [All QR clock related posts](https://ch00ftech.com/category/qr-clock/)
