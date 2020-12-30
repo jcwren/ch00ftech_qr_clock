@@ -18,8 +18,8 @@ for the hardware design. Eagle is at v9.6.2 at the time this README was
 created. It is unknown if it can import a version that far back or not.
 
 AVR-GCC is use to compile the firmware for the ATMega328P. It will likely
-compile with more recent versions, although probably with more warnings as
-GCC has improved it's detection of question expressions. It is unknown what
-version was used for the original release. AVR-GCC is available [here]
-(https://blog.zakkemble.net/avr-gcc-builds/) for Windows, and can be
+compile with more recent versions, although probably with more warnings as GCC
+has improved it's detection of question expressions. It is unknown what version
+was used for the original release. AVR-GCC is available
+[here](https://blog.zakkemble.net/avr-gcc-builds/) for Windows, and can be
 installed with HomeBrew on MacOS or apt-get (or equivalent) on Linux.
